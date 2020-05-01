@@ -17,6 +17,8 @@
                     Một website hấp dẫn người xem phải có giao diện đẹp và có sự tương tác qua lại. Bạn hãy tưởng tượng một cô gái xinh đẹp nhưng hỏi gì cũng không biết, chạm vào không có phản ứng thì không gây cảm hứng cho người đối diện. Như vậy, tương tác là một yếu tố rất quan trọng, khéo léo bố trí các tương tác bạn vừa có thể khai thác được thông tin người dùng tối đa, vừa giúp cho họ tìm được những thông tin phù hợp, giữ người dùng ở lại với website lâu hơn và đồng nghĩa với lợi nhuận cao hơn.
                 </p>
                 <hr>
+                <h2>Add new title h2</h2>
+                <hr>
                 <p>Hello, My name is Phuc le</p>
                 <table>
                 <tr><td>dfjkgldj </td></tr>
